@@ -1,0 +1,26 @@
+{
+  "name": "search-strings",
+  "version": "1.0.0",
+  "description": "make regex searches on strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:olivertembo/search-strings.git"
+  },
+  "keywords": [
+    "search",
+    "strings",
+    "search",
+    "string",
+    "regex"
+  ],
+  "author": "olivertembo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olivertembo/search-strings/issues"
+  },
+  "homepage": "https://github.com/olivertembo/search-strings#readme"
+}
